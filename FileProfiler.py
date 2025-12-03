@@ -233,7 +233,7 @@ def directory_audit(directory):
         print("__________________________________________________")
         print("")
 
-directory_audit("C:\\Users\\ASUS\\PycharmProjects\\New_beginning\\data_structures\\dictionaries")
+
 
 
 
